@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to the Developer Club! 🙌
+This Github Organization have all the In-House projects for Lead Developers to contribute to and "open-source" projects for all Developer Club members to contribute to.
 
-TODO Add Dev Club Info
-<!--
+## Current Teams
+- App: Khang (Head), Jordan
+- Web: Julio (Head), Shaga, Benwin, Arriza
+- AI/ML: Anirudh (Head), Shivaram
+- Game: Pierce (Head)
+- System: Shaga (Head)
+- Hackathon: Cody (Head), Anirudh (*They have a seperate organization page, current rationale is they'll be clouding the repositories with partially-developed repos due to the nature of Hackathons. Ask Hackathon Head Dev to be added to the org and start competing.*)
+[Hackathon's Org](https://github.com/Hackathon-Team-WMU) 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20our%20Server-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/G9yE5s6NFM)
+## Projects
+### Active:
+- Developer Club App (In-House)
+- Developer Club Website (In-House)
+### Upcoming Projects
+- Cornerstone (Open-Source Web)
+- Campus Free Food (Open-Source App)
+### Archive Projects
+- N/A
